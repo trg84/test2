@@ -1,0 +1,24 @@
+html{
+    font-size: 100pxpx;
+}
+.first_img{
+    width: 3rem;
+    height: 40rem;
+}
+#first_div{
+    font-size: 40px;
+    color: blue;
+}
+.indexcss{
+    --index-css:rgb(43, 110, 40);
+    color:var(--index-css);
+}
+html{
+    font-size: 100%;
+}
+h6{
+    font: size 100vw;
+}       
+:root{
+    --text-color: violet;
+}
